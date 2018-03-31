@@ -1,24 +1,17 @@
-# README
+# Simple Blog According to Official Doc of Ruby (WIP)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### You should installed on your computer this dependency 
 
-Things you may want to cover:
+- Ruby (2.5.0)
+- Gem (2.7.4)
+- Rails (5.1.6)
+- sqlite3
+- Bundler
 
-* Ruby version
+#### How to Run it :
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Clone this repo to your computer
+* Go to the project by cd in terminal
+* Run This command ```$ bundle install```
+* And Run this command ```$ rails server ```
+* You can see the app in http://localhost:3000 ! Have Fun !
