@@ -13,5 +13,6 @@
 * Clone this repo to your computer
 * Go to the project by cd in terminal
 * Run This command ```$ bundle install```
+* Run the migration ```$ bin/rails db:migrate```
 * And Run this command ```$ rails server ```
 * You can see the app in http://localhost:3000 ! Have Fun !
